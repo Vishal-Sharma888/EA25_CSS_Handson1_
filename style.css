@@ -1,0 +1,59 @@
+h1 {
+  color: red;
+}
+
+h2 {
+  color: red;
+  font-style: italic;
+}
+
+span {
+  font-weight: 900;
+}
+
+ol li {
+  color: rgb(134, 7, 7);
+}
+
+ul li {
+  color: rgb(134, 7, 7);
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 4px;
+}
+
+.item-third {
+  font: bold;
+  text-decoration: line-through;
+}
+
+.point4{
+    background-color: yellow;
+}
+
+.para1{
+    color:rgb(134, 7, 7);
+}
+
+.para2{
+    color:rgb(134, 7, 7);
+}
+
+.para3{
+    color:rgb(134, 7, 7);
+}
+
+.item-forth {
+  background-color: yellow;
+}
+
+.link{
+    color: red;
+    background-color: yellow;
+    text-decoration: none;
+    font-style: italic;
+}
+
+#underline{
+    text-decoration: underline;
+}
